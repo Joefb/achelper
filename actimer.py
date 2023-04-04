@@ -3,7 +3,7 @@ import time
 import threading
 
 ### Enter the log path to the EQ log file ###
-log_path = "/home/callojoee/.wine/drive_c/Program Files (x86)/EverQuest/Logs/"
+log_path = "/home/home_name/.wine/drive_c/Program Files (x86)/EverQuest/Logs/"
 ### No need to modify below this line #########################################
 ###############################################################################
 
